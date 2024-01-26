@@ -1,0 +1,43 @@
+The name of my ChatBot will be WiseWebWalker. 
+1. Purpose: We are living in a life where we face many problems in our day-to-day life and we need a certain someone trustworthy to whom we could share it with so that we could feel lighter. Thus, my Ai ChatBot will be listening all the emotions of its User friend and will console him/her by a social or motivational talk, jokes, playing music or sometimes even solutions to their problems. Being a knowledgeable friend this chatbot could provide various ideas and information of different topics.
+2. Data-Sets that can be used to train my model:
+      Emotion Recognition Datasets: To understand the emotion of the user. For example: Affetnet or EmoReact could be used.
+Conversational Datasets : to train my model in understanding natural language and generate engaging conversations. For example: DailyDialog, OpenSubtitles, etc.
+Music Datasets: To train the model to play music based on user preferences. For example: Million Song Dataset
+Knowledge Based Datsets: To assist chatbot in generating ideas and information on any topic. For example: Wikipedia Corpus Dataset.
+
+3. NLP Frameworks that could be used: 
+Hugging Face's Transformers
+spaCy
+Tensorflow with Keras
+PyTorch
+
+4. Target Audience: Music Enthusiasts, Individual seeking for emotional support, teenager for info on different topics, etc.
+
+ AI serves as the underlying technology that powers WiseWebWalker's ability to understand and respond to user emotions, provide music recommendations, generate engaging conversations, offer technical support, and deliver entertaining content. It enables the cbot to act as a supportive friend, offering a wide range of assistance and interactions to users.  
+
+
+Great! Training NLP models for text generation is an exciting endeavor. Here's a simplified roadmap to get you started:
+
+Data Collection:
+
+Gather a diverse and high-quality dataset for text generation tasks. You can consider using publicly available datasets such as news articles, books, or movie scripts.
+Data Preprocessing:
+
+Use Python and libraries like NLTK or spaCy to clean and preprocess the text data. This may involve tasks such as tokenization, stemming, and removing stop words.
+Model Selection:
+
+Choose a text generation model architecture based on your requirements. Common choices include GPT-3, LSTM, or GRU-based models for sequence generation.
+Training the Model:
+
+Utilize Python and deep learning frameworks such as TensorFlow or PyTorch to develop and train your text generation model.
+Fine-Tuning:
+
+Fine-tune the pre-trained model on your specific dataset to make it more contextually relevant to the type of text you intend to generate.
+Evaluation:
+
+Use metrics like perplexity and BLEU score to evaluate the performance of your text generation model and make necessary adjustments.
+Deployment:
+
+Once the model is trained and evaluated, you can deploy it to generate text in real-time as part of your WiseWebWalker chatbot.
+Python, along with libraries such as TensorFlow or PyTorch, can greatly assist you at each stage of this training process. If you need assistance with specific tasks, feel free to reach out!
